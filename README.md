@@ -2,7 +2,7 @@
 
 ## Week 1
 * 1-1 Expressions and Variables
-* 1-2 String Operations
+* 1-2 Strings
 
 ## Week 2
 * 2-1 Tuples
