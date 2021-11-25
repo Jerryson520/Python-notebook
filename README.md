@@ -8,7 +8,6 @@
 * 2-1 Lists and Tuples
 * 2-2 Dictionaries
 * 2-3 Sets
-* 2-4 
 
 ## Week 3
 * 3-1 Conditions and Branching
