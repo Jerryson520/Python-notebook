@@ -1,4 +1,4 @@
-# Python-notebook (Hands-on labs)
+# Hands-on labs
 
 ## Week 1
 * 1-1 Expressions and Variables
