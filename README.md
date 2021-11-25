@@ -5,9 +5,10 @@
 * 1-2 String Operations
 
 ## Week 2
-* 2-1 Lists and Tuples
-* 2-2 Dictionaries
-* 2-3 Sets
+* 2-1 Tuples
+* 2-2 Lists
+* 2-3 Dictionaries
+* 2-4 Sets
 
 ## Week 3
 * 3-1 Conditions and Branching
