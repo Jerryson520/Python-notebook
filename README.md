@@ -16,3 +16,8 @@
 * 3-3 Functions
 * 3-4 Exception Handling
 * 3-5 Objects and Classes
+
+## Week 4
+* 4-1 ReadFile
+* 4-2 WriteFile
+
