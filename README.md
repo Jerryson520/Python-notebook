@@ -18,6 +18,8 @@
 * 3-5 Objects and Classes
 
 ## Week 4
-* 4-1 ReadFile
-* 4-2 WriteFile
-
+* 4-1 Reading Files
+* 4-2 Writing Files
+* 4-3 Pandas
+* 4-4 One Dimensional Numpy
+* 4-5 Two Dimensional Numpy
