@@ -20,6 +20,6 @@
 ## Week 4
 * 4-1 Reading Files
 * 4-2 Writing Files
-* 4-3 Pandas
-* 4-4 One Dimensional Numpy
-* 4-5 Two Dimensional Numpy
+* (4-3 Pandas)
+* 4-3 One Dimensional Numpy
+* 4-4 Two Dimensional Numpy
