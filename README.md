@@ -26,6 +26,6 @@
 
 ## Week 5
 * 5-1 Introduction to API
-* 5-2 Watson Speech to Text and Language Translator API
+* 5-2 Watson Speech to Text & Language Translator API
 * 5-3 Access REST APIs & Request HTTP
 * 5-4 
