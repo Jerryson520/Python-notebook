@@ -31,3 +31,8 @@
 * 5-3 Request HTTP
 * 5-4 (Webscrapping)
 * 5-5 Working with different file formats
+
+## Databases and SQL for Data Science with Python
+### Week 1
+
+
