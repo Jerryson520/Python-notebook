@@ -36,3 +36,7 @@
 ### Week 1
 
 
+## Data Analysis with Python
+### Week 2
+* 2-1 Data Wrangling
+* 
